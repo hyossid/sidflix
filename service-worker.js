@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sidflix/precache-manifest.20125206800af170e8b560db66a78216.js"
+  "/sidflix/precache-manifest.d5998a5f0405fed1de2bef76d21c7464.js"
 );
 
 self.addEventListener('message', (event) => {

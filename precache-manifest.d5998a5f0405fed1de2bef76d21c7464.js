@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e023a13ac722ac9d745761ea0fb984eb",
+    "revision": "e5f08d403fc3105b3523e0c8e4f2698e",
     "url": "/sidflix/index.html"
   },
   {
-    "revision": "7970e95422df3e7e0b3d",
-    "url": "/sidflix/static/js/2.7d111252.chunk.js"
+    "revision": "076cccd885a3267c6051",
+    "url": "/sidflix/static/js/2.18c41207.chunk.js"
   },
   {
     "revision": "aef280276b8d6f56e9d8dc46988119d9",
-    "url": "/sidflix/static/js/2.7d111252.chunk.js.LICENSE.txt"
+    "url": "/sidflix/static/js/2.18c41207.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ddd7ebdc66c615a5ac2",
-    "url": "/sidflix/static/js/main.b673773d.chunk.js"
+    "revision": "cf1ddb4ebb7267425ffa",
+    "url": "/sidflix/static/js/main.f0fc2ab3.chunk.js"
   },
   {
     "revision": "18c3e2331f605ae14060",
